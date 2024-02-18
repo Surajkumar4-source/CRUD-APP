@@ -7,13 +7,17 @@ This React CRUD (Create, Read, Update, Delete) App is a simple web application f
 
 ## Features:
 
-### Create: Add new user entries with name and email.
+### Create:
+Add new user entries with name and email.
 
-### Read: Display a table of existing user data with options to edit and delete entries.
+### Read: 
+Display a table of existing user data with options to edit and delete entries.
 
-### Update: Modify existing user information through a user-friendly update form.
+### Update:
+Modify existing user information through a user-friendly update form.
 
-### Delete: Remove user entries from the dataset.
+### Delete: 
+Remove user entries from the dataset.
 
 
 
